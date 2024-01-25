@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Projeto SPA de uma Sorveteria com React JS
+
+O projeto visa a construção de uma single page application(spa) com React JS e o uso de Rotas com o pacote react-router-dom.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
